@@ -17,9 +17,7 @@ const winString = `
                                                    "Y888P"
 
   ---
-  for further instructions:
-   url is sha256 of root pw concatenated with this salt: 686ae23ead913b9a5e0882c009f52bdd
-   under this domain, e.g. www.evinism.com/07123E1F482356C415F684407A3B8723E10B2CBBC0B8FCD6282C49D37C9C1ABC
+    Please email me at evinism@gmail.com and tell me how you got through!
   ---
 `;
 
